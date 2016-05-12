@@ -1,0 +1,5 @@
+D:\Abdul\Development\HandsOn\Git\Repos\Submodule\git1\GitApp\GitApp\bin\GitApp.dll.config
+D:\Abdul\Development\HandsOn\Git\Repos\Submodule\git1\GitApp\GitApp\bin\GitApp.dll
+D:\Abdul\Development\HandsOn\Git\Repos\Submodule\git1\GitApp\GitApp\bin\GitApp.pdb
+D:\Abdul\Development\HandsOn\Git\Repos\Submodule\git1\GitApp\GitApp\obj\Debug\GitApp.dll
+D:\Abdul\Development\HandsOn\Git\Repos\Submodule\git1\GitApp\GitApp\obj\Debug\GitApp.pdb
