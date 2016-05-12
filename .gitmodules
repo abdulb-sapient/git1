@@ -1,4 +1,3 @@
-[submodule "GitApp\\GitApp\\assets\\demo1"]
-	path = GitApp\\GitApp\\assets\\demo1
+[submodule "bitdemo"]
+	path = bitdemo
 	url = https://abdulb-sapient@bitbucket.org/abdulb-sapient/bitdemo.git
-	branch = develop
