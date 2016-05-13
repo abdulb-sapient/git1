@@ -1,3 +1,6 @@
 [submodule "bitdemo2"]
 	path = bitdemo2
 	url = https://abdulb-sapient@bitbucket.org/abdulb-sapient/bitdemo.git
+[submodule "cambridge-ui"]
+	path = cambridge-ui
+	url = https://abdulb-sapient@bitbucket.org/ca-labs/cambridge-ui.git
